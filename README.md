@@ -8,5 +8,5 @@ I wrote these rules in one inspired evening as a teen. I had just read a detaile
 
 Recently, I discovered those folded sheets in my garage. And decided to immortalize them here.
 
-I never have had the opportunity to read the orginal source material. I did, however, read reviews of _Starfire_ on BBG. It sounds like my version is more variant than faithful re-creation. Still, I am happy with it.
+I never have had the opportunity to read the orginal source material. I did, however, read reviews of _Starfire_ on BGG. It sounds like my version is more variant than faithful re-creation. Still, I am happy with it.
 
