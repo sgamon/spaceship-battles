@@ -45,7 +45,7 @@ all of this speed, every turn.
 1. A ship must always face a hexside. When moving, it must always move into the 
 hex directly ahead.
 2. To turn, a ship must first move forward a number of hexes equal to its turn 
-mode. It may then spin and face of the the hexsides adjacent to the hexside it 
+mode. It may then spin and face one of the hexsides adjacent to the hexside it 
 is facing.
 
 
@@ -58,7 +58,7 @@ single ship.
 2. Ships equipped with DataLink can form fire groups of up to 3 ships. Fire 
 groups may fire simultaneously on a common target, with their fire considered 
 a single volley.
-3. Ships with Multiplex Tracking can fire on moer than 1 target ship with 
+3. Ships with Multiplex Tracking can fire on more than 1 target ship with 
 their volley. 
 4. A ship may not use DataLink and Multiplex Tracking in the same volley.
 5. Weapons can only volley fire at targets in their arc of fire.
